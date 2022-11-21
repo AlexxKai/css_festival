@@ -81,6 +81,10 @@ tbody{
     text-align:center;
 }
 
+#div3{
+    display: inline-block;
+}
+
 #ing{
     font-style: oblique; 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -95,3 +99,6 @@ tbody{
     text-align: right; position: relative; margin-top: -25%;
 }
 
+#text2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ; font-size: large;
+}
