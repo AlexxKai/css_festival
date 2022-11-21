@@ -19,6 +19,16 @@
     text-decoration: underline;
 }
 
+nav{
+    text-align: center; font-size:35px;
+}
+
+header{
+    background-image: url(./multimedia/fotos/morado.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 h1 {
     color: yellow;
     text-align: center;
@@ -29,14 +39,46 @@ body {
     background-color: slategrey;
 }
 
-header{
-    background-image: url(./multimedia/fotos/morado.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+#sec{
+    font-size: 20px; font-family: 'Courier New', Courier, monospace;
+}
+
+caption{
+    font-size: 25px; color:rgb(37, 50, 54)"
+}
+
+tbody{
+    text-align: center; color: rgb(1, 1, 0); background-color:coral;
+}
+
+#tr{
+    background-color:#6699ff;
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#text{
+    font-style: oblique;
+}
+
+#sec2{
+    font-size: large;
+}
+
+#td{
+    background-color: rgba(244, 208, 7, 0.995);
+}
+
+#td2{
+    background-color:rgb(110, 18, 230);
 }
 
 #div{
     background-color: #ff914d;
+}
+
+#div2{
+    text-align:center;
 }
 
 #ing{
@@ -44,3 +86,12 @@ header{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: x-large;
 }
+
+#f1{
+    text-align: left; position: relative; margin-top: -5%;
+}
+
+#f2{
+    text-align: right; position: relative; margin-top: -25%;
+}
+
