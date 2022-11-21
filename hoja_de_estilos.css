@@ -1,0 +1,46 @@
+.navA:link {
+    color: cornflowerblue;
+    text-decoration: dotted;
+}
+
+.navA:visited {
+    color: beige;
+    text-decoration: solid;
+}
+
+.navA:active {
+    color: black;
+    text-decoration: dotted;
+}
+
+.navA:hover {
+    color: black;
+    background-color: greenyellow;
+    text-decoration: underline;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+    font-size: 40px;
+}
+
+body {
+    background-color: slategrey;
+}
+
+header{
+    background-image: url(./multimedia/fotos/morado.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#div{
+    background-color: #ff914d;
+}
+
+#ing{
+    font-style: oblique; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
